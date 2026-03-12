@@ -9,7 +9,6 @@
     { href: "experience.html",     label: "Experience" },
     { href: "education.html",      label: "Education" },
     { href: "certifications.html", label: "Certifications" },
-    { href: "articles.html",       label: "Articles" },
     { href: "contact.html",        label: "Contact" },
   ];
 
